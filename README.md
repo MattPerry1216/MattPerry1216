@@ -9,4 +9,4 @@ My interests include:
 - Random data science
 - Quantative approaches to finances
 - Self-tracking
-- Minialist web design
+- Minimalist web design
